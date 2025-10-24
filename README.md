@@ -1,4 +1,4 @@
-# Football Player Tracking and Analysis System
+# BlueLock - Football tracking and analysis
 
 Computer vision-based platform for automated player tracking and performance analysis for football video. The system provides real-world measurements including distance covered, speed metrics, and tactical insights.
 
