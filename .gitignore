@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+
+# Video processing output directories
+uploaded_videos/
+calibrations/
+preprocessed/
+tracked_videos/
+heatmaps/
+reports/
+exports/
+
+# Keep directory structure but not contents
+!uploaded_videos/.gitkeep
+!calibrations/.gitkeep
+!preprocessed/.gitkeep
+!tracked_videos/.gitkeep
+!heatmaps/.gitkeep
+!reports/.gitkeep
+!exports/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.h5
+*.pth
+*.pt
